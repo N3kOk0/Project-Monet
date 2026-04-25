@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="str_related_open_soure_project">"                              \n          酷安莫奈取色          \n          [兼容模式]          \n          MaoziMGT二改          "</string>
+    <string name="title_about" >你正在使用 Android14-</string>
+    <string name="作者" translatable="false">MaoziMGT</string>
+</resources>

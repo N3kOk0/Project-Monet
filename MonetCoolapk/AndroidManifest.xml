@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:versionCode="1608"
+    android:versionName="aapt编译版"
+    package="monet.com.coolapk.market">
+    <uses-sdk
+        android:minSdkVersion="31"
+        android:targetSdkVersion="36" />
+    <application
+        android:hasCode="false"
+        android:extractNativeLibs="false"/>
+    <overlay
+        android:isStatic="false"
+        android:targetPackage="com.coolapk.market"
+        android:priority="1"/>
+</manifest>
