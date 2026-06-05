@@ -1,38 +1,37 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <resources>
     <!--project monet accent colors-->
-    <color name="accent_green">@android:color/system_primary_dark</color>
-    <color name="activated_green">@android:color/system_primary_dark</color>
-    <color name="green">@android:color/system_primary_dark</color>
-    <color name="dark_green">@android:color/system_primary_dark</color>
-    <color name="accent_brown">@android:color/system_tertiary_dark</color>
-    <color name="activated_brown">@android:color/system_tertiary_dark</color>
-    <color name="brown">@android:color/system_tertiary_dark</color>
-    <color name="dark_brown">@android:color/system_tertiary_dark</color>
     <color name="accent_black">@android:color/system_primary_dark</color>
+    <color name="activated_black">@android:color/system_primary_dark</color>
     <color name="black">@android:color/system_surface_container_dark</color>
+    <color name="dark_black">@android:color/system_surface_dark</color>
+    
     <color name="danger_color">@android:color/system_error_light</color>
     <color name="danger_color_night">@android:color/system_error_dark</color>
+    
     <!--project monet fg colors-->
     <color name="text_color_level1">@android:color/system_on_surface_light</color>
-    <color name="text_color_level1_night">@android:color/system_on_surface_dark</color>
     <color name="text_color_level2">@android:color/system_on_surface_variant_light</color>
-    <color name="text_color_level2_night">@android:color/system_on_surface_variant_dark</color>
     <color name="text_color_level3">@android:color/system_on_surface_variant_light</color>
-    <color name="text_color_level3_night">@android:color/system_on_surface_variant_dark</color>
     <color name="text_color_level4">@android:color/system_on_surface_variant_light</color>
+    <color name="text_color_level1_night">@android:color/system_on_surface_dark</color>
+    <color name="text_color_level2_night">@android:color/system_on_surface_variant_dark</color>
+    <color name="text_color_level3_night">@android:color/system_on_surface_variant_dark</color>
     <color name="text_color_level4_night">@android:color/system_on_surface_variant_dark</color>
-    <color name="thin_divider_color">@android:color/system_outline_variant_light</color>
-    <color name="thin_divider_color_night">@android:color/system_outline_variant_dark</color>
+    
+    <color name="thin_divider_color">@android:color/system_surface_container_light</color>
+    <color name="thin_divider_color_night">@android:color/system_background_dark</color>
+    
     <!--project monet bg colors-->
     <color name="background_color_level1">@android:color/system_surface_container_light</color>
-    <color name="background_color_level1_night">@android:color/system_background_dark</color>
     <color name="background_color_level2">@android:color/system_background_light</color>
-    <color name="background_color_level2_night">@android:color/system_surface_container_dark</color>
     <color name="background_color_level3">@android:color/system_surface_container_light</color>
-    <color name="background_color_level3_night">@android:color/system_background_dark</color>
     <color name="background_color_level4">@android:color/system_surface_container_light</color>
+    <color name="background_color_level1_night">@android:color/system_background_dark</color>
+    <color name="background_color_level2_night">@android:color/system_surface_container_dark</color>
+    <color name="background_color_level3_night">@android:color/system_background_dark</color>
     <color name="background_color_level4_night">@android:color/system_background_dark</color>
+    
     <color name="main_background">@android:color/system_surface_container_light</color>
     <color name="main_background_night">@android:color/system_background_dark</color>
     <color name="content_background">@android:color/system_background_light</color>
