@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:versionCode="1608"
-    android:versionName="aapt编译版"
+    android:versionCode="1609"
+    android:versionName="酷安v16 模块v9"
     package="monet.com.coolapk.market">
     <uses-sdk
         android:minSdkVersion="31"
