@@ -41,6 +41,9 @@
     <color name="background_color_level2_night">@android:color/system_surface_container_dark</color>
     <color name="background_color_level3_night">@android:color/system_background_dark</color>
     <color name="background_color_level4_night">@android:color/system_background_dark</color>
+
+    <color name="messageEditBackground">@android:color/system_surface_container_light</color>
+    <color name="messageErrorBackground">@android:color/system_background_light</color>
     
     <color name="main_background">@android:color/system_surface_container_light</color>
     <color name="main_background_night">@android:color/system_background_dark</color>

@@ -5,4 +5,8 @@
     <color name="activated_black">@android:color/system_accent1_200</color>
     <color name="black">@android:color/system_neutral1_50</color>
     <color name="dark_black">@android:color/system_neutral1_10</color>
+
+    <!--project monet bg colors-->
+    <color name="messageEditBackground">@android:color/system_neutral1_900</color>
+    <color name="messageErrorBackground">@android:color/system_neutral1_800</color>
 </resources>
