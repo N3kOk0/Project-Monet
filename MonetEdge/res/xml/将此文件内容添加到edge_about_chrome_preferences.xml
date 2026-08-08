@@ -1,0 +1,5 @@
+    <org.chromium.chrome.browser.about_settings.AboutChromePreferenceOSVersion
+        android:layout="@layout/edge_settings_prefs_center_layout"
+        android:title="Maozi Monet Edge"
+        android:summary="v150.2"
+        app:allowDividerBelow="false"/>
