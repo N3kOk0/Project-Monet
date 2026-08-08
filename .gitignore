@@ -1,0 +1,5 @@
+*.bat
+*.idsig
+*.zip
+*.apk
+*.code-workspace
