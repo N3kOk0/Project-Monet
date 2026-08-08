@@ -16,6 +16,11 @@
     <color name="white">@android:color/system_neutral1_50</color>
     <color name="dark_white">@android:color/system_neutral1_10</color>
     
+    <color name="accent_blue_grey">@android:color/system_accent3_600</color>
+    <color name="activated_blue_grey">@android:color/system_accent3_600</color>
+    <color name="blue_grey">@android:color/system_accent1_600</color>
+    <color name="dark_blue_grey">@android:color/system_accent1_600</color>
+
     <!--project monet fg colors-->
     <color name="thin_divider_color">@android:color/system_neutral1_10</color>
     <color name="thin_divider_color_night">@android:color/system_neutral1_900</color>

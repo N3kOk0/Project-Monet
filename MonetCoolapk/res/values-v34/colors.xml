@@ -16,6 +16,11 @@
     <color name="white">@android:color/system_surface_light</color>
     <color name="dark_white">@android:color/system_surface_container_light</color>
     
+    <color name="accent_blue_grey">@android:color/system_tertiary_light</color>
+    <color name="activated_blue_grey">@android:color/system_tertiary_light</color>
+    <color name="blue_grey">@android:color/system_primary_light</color>
+    <color name="dark_blue_grey">@android:color/system_primary_light</color>
+
     <color name="danger_color">@android:color/system_error_light</color>
     <color name="danger_color_night">@android:color/system_error_dark</color>
     
