@@ -13,33 +13,45 @@
     
     <color name="accent_white">@android:color/system_accent1_600</color>
     <color name="activated_white">@android:color/system_accent1_600</color>
-    <color name="white">@android:color/system_neutral1_50</color>
-    <color name="dark_white">@android:color/system_neutral1_10</color>
+    <color name="white">@android:color/system_neutral1_10</color>
+    <color name="dark_white">@android:color/system_neutral1_50</color>
     
     <color name="accent_blue_grey">@android:color/system_accent3_600</color>
     <color name="activated_blue_grey">@android:color/system_accent3_600</color>
     <color name="blue_grey">@android:color/system_accent1_600</color>
     <color name="dark_blue_grey">@android:color/system_accent1_600</color>
 
+    <color name="danger_color">#FFB3261E</color>
+    <color name="danger_color_night">#FFF2B8B5</color>
+    
     <!--project monet fg colors-->
-    <color name="thin_divider_color">@android:color/system_neutral1_10</color>
+    <color name="text_color_level1">@android:color/system_neutral1_800</color>
+    <color name="text_color_level2">@android:color/system_neutral2_800</color>
+    <color name="text_color_level3">@android:color/system_neutral2_800</color>
+    <color name="text_color_level4">@android:color/system_neutral2_800</color>
+    <color name="text_color_level1_night">@android:color/system_neutral1_50</color>
+    <color name="text_color_level2_night">@android:color/system_neutral2_50</color>
+    <color name="text_color_level3_night">@android:color/system_neutral2_50</color>
+    <color name="text_color_level4_night">@android:color/system_neutral2_50</color>
+    
+    <color name="thin_divider_color">@android:color/system_neutral1_50</color>
     <color name="thin_divider_color_night">@android:color/system_neutral1_900</color>
     
     <!--project monet bg colors-->
-    <color name="background_color_level1">@android:color/system_neutral1_10</color>
-    <color name="background_color_level2">@android:color/system_neutral1_50</color>
-    <color name="background_color_level3">@android:color/system_neutral1_10</color>
-    <color name="background_color_level4">@android:color/system_neutral1_10</color>
+    <color name="background_color_level1">@android:color/system_neutral1_50</color>
+    <color name="background_color_level2">@android:color/system_neutral1_10</color>
+    <color name="background_color_level3">@android:color/system_neutral1_50</color>
+    <color name="background_color_level4">@android:color/system_neutral1_50</color>
     <color name="background_color_level1_night">@android:color/system_neutral1_900</color>
     <color name="background_color_level2_night">@android:color/system_neutral1_800</color>
     <color name="background_color_level3_night">@android:color/system_neutral1_900</color>
     <color name="background_color_level4_night">@android:color/system_neutral1_900</color>
 
-    <color name="messageEditBackground">@android:color/system_neutral1_10</color>
-    <color name="messageErrorBackground">@android:color/system_neutral1_50</color>
+    <color name="messageEditBackground">@android:color/system_neutral1_50</color>
+    <color name="messageErrorBackground">@android:color/system_neutral1_10</color>
     
-    <color name="main_background">@android:color/system_neutral1_10</color>
+    <color name="main_background">@android:color/system_neutral1_50</color>
     <color name="main_background_night">@android:color/system_neutral1_900</color>
-    <color name="content_background">@android:color/system_neutral1_50</color>
+    <color name="content_background">@android:color/system_neutral1_10</color>
     <color name="content_background_night">@android:color/system_neutral1_800</color>
 </resources>
