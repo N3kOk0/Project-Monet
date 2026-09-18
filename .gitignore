@@ -3,3 +3,4 @@
 *.zip
 *.apk
 *.code-workspace
+build/
